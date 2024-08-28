@@ -47,5 +47,7 @@ If you have any questions or concerns, please contact us at [https://gdsc.commun
 By using the GDSC Community App, you agree to this Privacy Policy.
 
 Developer Information:
+
 Name: Chetan Kumar Pulipati
+
 Mail Id: chetankumarpulipati4@gmail.com
